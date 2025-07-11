@@ -2,7 +2,7 @@
 
 A sleek, responsive food delivery web application built with **React**, **Tailwind CSS**, **Framer Motion**, and **Firebase**. Users can browse a dynamic menu, add items to their cart, and place orders with a beautiful, animated UI experience.
 
-![Foodie Preview](./public/preview.png)
+![Foodie Preview](./public/preview.jpg)
 
 ---
 
