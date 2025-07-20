@@ -1,8 +1,7 @@
 # 🍔 Foodie - Modern React Food Delivery Web App
 
 A sleek, responsive food delivery web application built with **React**, **Tailwind CSS**, **Framer Motion**, and **Firebase**. Users can browse a dynamic menu, add items to their cart, and place orders with a beautiful, animated UI experience.
-
-![Foodie Preview](./public/preview.jpg)
+<img width="1597" height="696" alt="image" src="https://github.com/user-attachments/assets/e86fe122-61d8-442a-a616-f93b6fffca04" />
 
 ---
 
