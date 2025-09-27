@@ -17,28 +17,7 @@ A sleek, responsive food delivery web application built with **React**, **Tailwi
 
 ---
 
-## 📂 Project Structure
 
-foodie-app/
-├── public/
-│ └── bg-food.jpg (background image)
-├── src/
-│ ├── assets/
-│ ├── components/
-│ │ ├── Cart.jsx
-│ │ ├── Navbar.jsx
-│ ├── context/
-│ │ └── CartContext.jsx
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ ├── Menu.jsx
-│ │ ├── Login.jsx
-│ │ ├── Signup.jsx
-│ │ ├── OrderSummary.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── firebase.js
-└── README.md
 
 yaml
 Copy
