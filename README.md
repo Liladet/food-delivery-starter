@@ -17,12 +17,6 @@ A sleek, responsive food delivery web application built with **React**, **Tailwi
 
 ---
 
-
-
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Tech Stack
@@ -43,21 +37,18 @@ Edit
 ```bash
 git clone https://github.com/yourusername/foodie-app.git
 cd foodie-app
+```
 2. Install dependencies
-bash
-Copy
-Edit
+```bash
 npm install
+```
 3. Set up Firebase
 Create a Firebase project at https://console.firebase.google.com
 
 Enable Firestore Database
 
 In src/firebase.js, add your config:
-
-js
-Copy
-Edit
+```bash
 // src/firebase.js
 import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
@@ -71,29 +62,15 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app);
+```
 4. Run the app
-bash
-Copy
-Edit
+```bash
 npm run dev
+```
 📦 Deployment
 You can deploy this app easily with:
 
 Vercel: https://vercel.com
-
-📸 Screenshots
-Home Page (Hero + Features)	Menu Page	Cart Sidebar
-
-🙌 Acknowledgements
-React
-
-Tailwind CSS
-
-Framer Motion
-
-Firebase
-
-Lucide Icons
 
 💡 Future Improvements
 ✅ User Authentication
@@ -106,7 +83,7 @@ Lucide Icons
 
 🧑‍💻 Author
 Lidiya Alemayehu
-Software Engineering Student • Frontend Dev
+Software Engineering Student 
 📧 lilaalex94@gmail.com
 📍 Addis Ababa, Ethiopia
 
